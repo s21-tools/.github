@@ -1,12 +1,8 @@
 # S21 Tools
 
-Open-source tools and utilities built by students, for students of School 21.
+Open-source developer tools and automation utilities built by students, for students of School 21.
 
-We got tired of doing the same manual stuff over and over — so we automated them.
-
-## Status
-
-We're currently refactoring our existing utilities and will be publishing them here soon. Stay tuned.
+We automate boring repetitive checks, setup steps, and local development routines so students can spend more time writing code and less time fighting their environment.
 
 ## Projects
 
