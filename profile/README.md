@@ -12,7 +12,7 @@ We're currently refactoring our existing utilities and will be publishing them h
 
 | Tool | Description |
 |------|-------------|
-| [s21check](https://github.com/s21-tools/s21check) | TBA |
+| [s21check](https://github.com/s21-tools/s21check) | CLI checker for School 21 C projects: `clang-format`, `s21lint`, `cppcheck`, and Docker/Podman-based Valgrind. |
 
 More coming.
 
